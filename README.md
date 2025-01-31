@@ -1,5 +1,41 @@
 ## Hi there 👋
 
+
+  # Mohammad Shirmohammadi
+
+__________________________________________________________________________________________________________________________________________________________________________________________________
+
+🌱 I’m currently learning machine learning
+
+👯 I’m looking to collaborate on Python based projects
+
+
+    class MohammadShirmohammadi():
+    
+      def __init__(self):
+        self.name = "Mohammad Shirmohammadi";
+        self.username = "MohammadShirmohammadi";
+        self.location = "Hamedn, Iran";
+    
+  
+      def __str__(self):
+        return self.name
+
+    if __name__ == '__main__':
+        me = MohammadShirmohammadi()
+
+
+  #  Technologies That I Know👨🏻‍💻
+
+
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,mysql,pycharm,py,vscode,cs,anaconda" />
+  </a>
+</p>
+
 <!--
 **mohammadshirmohammadi589/mohammadshirmohammadi589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
