@@ -8,6 +8,8 @@
 
 👯 I’m looking to collaborate on Python based projects
 
+🤝 I'm open to collaborating on interesting projects as Data Science
+
 
     class MohammadShirmohammadi():
     
