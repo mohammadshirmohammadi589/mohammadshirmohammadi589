@@ -10,6 +10,8 @@
 
 🤝 I'm open to collaborating on interesting projects as Data Science
 
+📫 How to reach me mohammadshirmohammadi589@gmail.com
+
 
     class MohammadShirmohammadi():
     
