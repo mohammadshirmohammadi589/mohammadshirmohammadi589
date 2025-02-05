@@ -10,7 +10,8 @@
 
 🤝 I'm open to collaborating on interesting projects as Data Science
 
-📫 How to reach me mohammadshirmohammadi589@gmail.com
+📧 Email: [mohammadshirmohammadi589@gmail.com](mailto:mohammadshirmohammadi589@gmail.com)
+💬 Telegram: [shirmohammadi](https://t.me/shirmohammadi)
 
 
     class MohammadShirmohammadi():
