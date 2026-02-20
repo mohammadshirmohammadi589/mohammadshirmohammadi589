@@ -4,7 +4,6 @@
   # Mohammad Shirmohammadi
 
 
-🌱 I’m currently learning machine learning
 
 👯 I’m looking to collaborate on Python based projects
 
