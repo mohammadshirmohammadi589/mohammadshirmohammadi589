@@ -1,64 +1,36 @@
-## Hi there 👋
+# Hi, I'm Mohammad 👋
 
+Junior Data Analyst focused on Customer & Marketing Analytics.
 
-  # Mohammad Shirmohammadi
+I combine real-world business experience with data analytics to turn
+customer and transaction data into actionable insights.
 
+## 🔧 Skills
 
+Python | SQL | Power BI | Pandas | NumPy | Scikit-learn
 
-👯 I’m looking to collaborate on Python based projects
+## 📊 Areas of Focus
 
-🤝 I'm open to collaborating on interesting projects as Data Science
+- Customer Segmentation
+- Churn Analysis
+- Customer Lifetime Value
+- Cohort Analysis
+- Retention Analytics
+- Purchase Behavior
+
+## 🚀 Featured Projects
+
+1. Customer Segmentation — RFM
+2. Customer Churn Prediction
+3. Customer Lifetime Value
+4. Cohort Analysis
+5. Next Shopping Cart Prediction
+
+## 🎯 What I’m Looking For
+
+Junior Data Analyst / Customer Data Analyst / Marketing Data Analyst
+roles where I can combine analytical skills with business understanding.
 
 - 📧 Email: [mohammadshirmohammadi589@gmail.com](mailto:mohammadshirmohammadi589@gmail.com)
 
 - 💬 Telegram: [shirmohammadi](https://t.me/shirmohammadi)
-
-
-      class MohammadShirmohammadi():
-    
-      def __init__(self):
-        self.name = "Mohammad Shirmohammadi";
-        self.username = "MohammadShirmohammadi";
-        self.location = "Hamedn, Iran";
-    
-  
-      def __str__(self):
-        return self.name
-
-      if __name__ == '__main__':
-        me = MohammadShirmohammadi()
-
-
-  #  Technologies That I Know👨🏻‍💻
-
-
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,mysql,pycharm,py,vscode,cs,anaconda" />
-  </a>
-</p>
-
-
-Connect with me:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-<!--
-**mohammadshirmohammadi589/mohammadshirmohammadi589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
